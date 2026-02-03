@@ -192,7 +192,7 @@ El sistema permite múltiples cuentas pero una sesión activa a la vez, simuland
 
 ## 👨‍💻 Autor
 
-[Tu Nombre]
+Matías Murath
 
 ## 📄 Licencia
 
@@ -201,4 +201,5 @@ Este proyecto fue desarrollado como parte de la evaluación del Módulo 2 - Fund
 ---
 
 **Fecha de entrega:** Febrero 2026
+
 **Institución:** Alkemy Digital
